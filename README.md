@@ -1,6 +1,6 @@
 # Satellite Super-Resolution Mapping
 
-A focused FastAPI + Vite prototype for selecting an AOI and producing a georeferenced 4x super-resolution Sentinel-2-style output.
+Deep Learning-based Super-Resolution Mapping of 10m Sentinel-2 satellite imagery to generate enhanced sub-4m geospatial representations using ESRGAN and PyTorch
 
 ## Features
 
